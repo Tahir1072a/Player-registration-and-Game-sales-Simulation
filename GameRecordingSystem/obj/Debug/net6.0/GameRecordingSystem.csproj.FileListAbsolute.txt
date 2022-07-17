@@ -1,0 +1,15 @@
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.csproj.AssemblyReference.cache
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.AssemblyInfoInputs.cache
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.AssemblyInfo.cs
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.csproj.CoreCompileInputs.cache
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\bin\Debug\net6.0\GameRecordingSystem.exe
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\bin\Debug\net6.0\GameRecordingSystem.deps.json
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\bin\Debug\net6.0\GameRecordingSystem.runtimeconfig.json
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\bin\Debug\net6.0\GameRecordingSystem.dll
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\bin\Debug\net6.0\GameRecordingSystem.pdb
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.dll
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\refint\GameRecordingSystem.dll
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.pdb
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\GameRecordingSystem.genruntimeconfig.cache
+C:\Users\alica\source\repos\GameRecordingSystem\GameRecordingSystem\obj\Debug\net6.0\ref\GameRecordingSystem.dll
